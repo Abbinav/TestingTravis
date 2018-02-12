@@ -4,7 +4,7 @@ install: true
 
 addons:
   sonarcloud:
-    organization: "Abbinav-github"
+    organization: "abbinav-github"
     token:
       secure: "c10b556cfb06695d5be54486aae08795502a20d9"
 
